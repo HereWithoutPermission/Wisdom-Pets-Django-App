@@ -80,3 +80,719 @@ console.error: BroadcastService:
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542494626963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.pFI3aoFsb5f0"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542494628772	Marionette	INFO	Listening on port 49718
+1542494628801	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542498369543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.VW8Fg7BrFVRJ"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542498371487	Marionette	INFO	Listening on port 49241
+1542498371576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542498413785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.0sgAtFp1yCsj"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542498415619	Marionette	INFO	Listening on port 49471
+1542498415729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542498420342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.MBh8jW7jXkVQ"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542498421938	Marionette	INFO	Listening on port 49553
+1542498421974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542498590357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.obrCswDbTH1j"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542498591771	Marionette	INFO	Listening on port 50014
+1542498591777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542498592096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.JRNhUX3S3QQr"
+1542498592101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.MVsVb8QG0KrT"
+*** You are running in headless mode.
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542498594311	Marionette	INFO	Listening on port 50071
+1542498594352	Marionette	INFO	Listening on port 50061
+1542498594400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542498594449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542499364521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.MKo6mZbxsC9J"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499365356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.4363C7mK3KtG"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499365876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.OH21wjNzO0SX"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499366435	Marionette	INFO	Listening on port 53440
+1542499366459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499366882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.FPhP2ZczkL1P"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499368214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.uRjjn4ZlM2QD"
+*** You are running in headless mode.
+1542499368350	Marionette	INFO	Listening on port 53462
+1542499368410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499370277	Marionette	INFO	Listening on port 53491
+1542499370301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499372743	Marionette	INFO	Listening on port 53534
+1542499372803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499375268	Marionette	INFO	Listening on port 53613
+1542499375334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499440397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.sLWRpBxj6Z7x"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499441421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.J5y7PG5HJgeh"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499441789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.zEbiXVKkSTpy"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499442397	Marionette	INFO	Listening on port 54192
+1542499442434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499444000	Marionette	INFO	Listening on port 54221
+1542499444120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499445054	Marionette	INFO	Listening on port 54240
+1542499445196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499551294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.B7IbuAKRhj9y"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499552810	Marionette	INFO	Listening on port 54836
+1542499552834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542499760914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.kObp6Vh19gWM"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542499762627	Marionette	INFO	Listening on port 55761
+1542499762653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542500339769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.sRj4cMfskolm"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500340948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.LUI6hAGpylTJ"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500341485	Marionette	INFO	Listening on port 58330
+1542500341524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542500342995	Marionette	INFO	Listening on port 58360
+1542500343005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542500430924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.1vgjnK3fqUql"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500431973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.vjMeiaxlFHmc"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500432662	Marionette	INFO	Listening on port 58811
+1542500432767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542500433408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.Ku8WHTRwbVSi"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500434398	Marionette	INFO	Listening on port 58843
+1542500434441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542500435790	Marionette	INFO	Listening on port 58891
+1542500435978	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542500928102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.WimiLnDc05ZF"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542500929554	Marionette	INFO	Listening on port 61020
+1542500929629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501016526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.a6IeQE6sS6pP"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501017907	Marionette	INFO	Listening on port 61441
+1542501017947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501353222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.xf4qyiMgNujW"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501354684	Marionette	INFO	Listening on port 62998
+1542501354763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501372407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.Z7Vq1twrKbcj"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501373782	Marionette	INFO	Listening on port 63133
+1542501373845	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542501514798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.btXrc8Yldevt"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501516206	Marionette	INFO	Listening on port 63832
+1542501516234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501518343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.kQRu8eeFWKKt"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501519860	Marionette	INFO	Listening on port 63888
+1542501519883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501562762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.M0im6WLpdW3z"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501564059	Marionette	INFO	Listening on port 64130
+1542501564095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542501565465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.MxSQvzqkl8Sp"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501567734	Marionette	INFO	Listening on port 64179
+1542501567826	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542501849920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.Pt9iZknMuSEF"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542501851337	Marionette	INFO	Listening on port 65455
+1542501851360	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542502230565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.tPF9w3lN0F7U"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542502232109	Marionette	INFO	Listening on port 50708
+1542502232204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542502466542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.4fCoveTxRXk8"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542502468172	Marionette	INFO	Listening on port 51753
+1542502468198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542502637782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.fXTyrkdwRXFu"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542502639415	Marionette	INFO	Listening on port 52577
+1542502639423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542502963079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.m8Ok7ViiSOy1"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542502964512	Marionette	INFO	Listening on port 53993
+1542502964536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542503065696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.2JORtI8a1rO2"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542503067240	Marionette	INFO	Listening on port 54461
+1542503067349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542503119264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.C8sWLZUM3xvT"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542503120883	Marionette	INFO	Listening on port 54764
+1542503120920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  receivedBroadcastMessage: handler for
+  threw error:
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542504569604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.MM9KvpP1ri5Y"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542504571275	Marionette	INFO	Listening on port 60943
+1542504571358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542504649556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.N1wTAxkAERud"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542504651029	Marionette	INFO	Listening on port 61331
+1542504651107	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542510054179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.62dFs21RbtJT"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542510055706	Marionette	INFO	Listening on port 50763
+1542510055731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542510086081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.ocM0vs69kz8K"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542510087388	Marionette	INFO	Listening on port 50950
+1542510087431	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542510249691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.Kn6vCYjSh50v"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542510251054	Marionette	INFO	Listening on port 51696
+1542510251126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542510325954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.mmPdO6q9ASoN"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542510327293	Marionette	INFO	Listening on port 52064
+1542510327380	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542510746532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.UQN4UWJUlOSe"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542510747882	Marionette	INFO	Listening on port 53861
+1542510747974	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542511424779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.FJyWjPrELhXP"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542511426129	Marionette	INFO	Listening on port 56732
+1542511426217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542512279137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.XvG8BD30MxRO"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542512280505	Marionette	INFO	Listening on port 60348
+1542512280563	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542513626207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.f42XLvz7wb73"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542513627723	Marionette	INFO	Listening on port 49586
+1542513627750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542513663595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.YgJaKGhr784Q"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542513664928	Marionette	INFO	Listening on port 49789
+1542513664937	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542514826695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.9cRrONqJkvFY"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542514828249	Marionette	INFO	Listening on port 54763
+1542514828341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 602: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542515268284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.X6Ybm86dFtQG"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542515269792	Marionette	INFO	Listening on port 56664
+1542515269824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542515721527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.jIbFGj8i0Nau"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542515723099	Marionette	INFO	Listening on port 58644
+1542515723177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542515776764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.0UOL5w5ZXFBl"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542515778128	Marionette	INFO	Listening on port 58949
+1542515778196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542515830572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.g1kEQcImpj23"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542515831968	Marionette	INFO	Listening on port 59220
+1542515832016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542515988414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.cTHf3kZju6aH"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542515989913	Marionette	INFO	Listening on port 59939
+1542515989946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542516169505	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.zIJA5hILddyk"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542516171070	Marionette	INFO	Listening on port 60761
+1542516171147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542516359970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/9r/fkxx4hq91ygcf1tjykbszpxn71tbqm/T/rust_mozprofile.IWLP3wEFGjiS"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 4: ReferenceError: Components is not defined
+1542516361568	Marionette	INFO	Listening on port 61625
+1542516361616	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  receivedBroadcastMessage: handler for
+  threw error:
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
